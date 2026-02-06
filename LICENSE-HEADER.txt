@@ -1,0 +1,105 @@
+AMPL-1.0 License Header Templates
+Acipe Minimal Permissive License v1.0 (AMPL-1.0)
+
+These templates may be used to mark source files as licensed under AMPL-1.0.
+They are provided for convenience and do not replace the full license text.
+
+Canonical license text: LICENSE.txt
+
+
+----------------------------------------------------------------------
+SPDX Identifier Notes
+----------------------------------------------------------------------
+
+Until AMPL is accepted into the SPDX License List, projects should use the
+temporary SPDX identifier format:
+
+    SPDX-License-Identifier: LicenseRef-AMPL-1.0
+
+After AMPL is officially accepted into the SPDX License List, projects should
+replace the above identifier with the official SPDX identifier assigned by SPDX.
+
+If SPDX assigns the identifier "AMPL-1.0", the correct header becomes:
+
+    SPDX-License-Identifier: AMPL-1.0
+
+Note: The exact identifier string must match the SPDX License List entry exactly.
+Do not guess. Use the official SPDX-assigned identifier.
+
+
+----------------------------------------------------------------------
+Template A: Minimal SPDX Header (Recommended)
+----------------------------------------------------------------------
+
+SPDX-License-Identifier: LicenseRef-AMPL-1.0
+
+
+----------------------------------------------------------------------
+Template B: SPDX + Author Attribution (Recommended for Libraries)
+----------------------------------------------------------------------
+
+/*
+ * SPDX-License-Identifier: LicenseRef-AMPL-1.0
+ * Copyright (c) 2026 George F. Rozansky (drumr)
+ */
+
+
+----------------------------------------------------------------------
+Template C: Full Short Notice (For Projects Wanting Extra Clarity)
+----------------------------------------------------------------------
+
+/*
+ * SPDX-License-Identifier: LicenseRef-AMPL-1.0
+ *
+ * Licensed under the Acipe Minimal Permissive License v1.0 (AMPL-1.0).
+ * You may use, modify, and redistribute this software, including for
+ * commercial and closed-source purposes, provided attribution to the
+ * original author(s) is preserved upon redistribution.
+ *
+ * Full license text: LICENSE.txt
+ */
+
+
+----------------------------------------------------------------------
+Template D: Single-Line Header (For Small Files)
+----------------------------------------------------------------------
+
+// SPDX-License-Identifier: LicenseRef-AMPL-1.0
+
+
+----------------------------------------------------------------------
+Template E: Shell Script Header
+----------------------------------------------------------------------
+
+#!/bin/sh
+# SPDX-License-Identifier: LicenseRef-AMPL-1.0
+
+
+----------------------------------------------------------------------
+Template F: Assembly / Low-Level Source Header
+----------------------------------------------------------------------
+
+; SPDX-License-Identifier: LicenseRef-AMPL-1.0
+; Copyright (c) 2026 George F. Rozansky (drumr)
+
+
+----------------------------------------------------------------------
+Template G: Documentation / Text File Header
+----------------------------------------------------------------------
+
+SPDX-License-Identifier: LicenseRef-AMPL-1.0
+Copyright (c) 2026 George F. Rozansky (drumr)
+
+Licensed under the Acipe Minimal Permissive License v1.0 (AMPL-1.0).
+Full license text: LICENSE.txt
+
+
+----------------------------------------------------------------------
+Template H: Binary Distribution NOTICE Reminder
+----------------------------------------------------------------------
+
+If you distribute binaries only, include a NOTICE file containing attribution
+and a copy of the license text, or otherwise make attribution and license terms
+accessible to recipients.
+
+Suggested NOTICE format is available in NOTICE.txt.

@@ -1,0 +1,100 @@
+Acipe Minimal Permissive License v1.0 (AMPL-1.0)
+
+This license exists to encourage creativity, reuse, preservation, and voluntary
+collaboration. It affirms broad freedom of use while preserving recognition of
+original authorship and welcoming, but never requiring, contribution back.
+
+The license is inspired by early personal computing and demo-scene software
+cultures, including those that emerged around the Amiga era, but it is not
+restricted to any platform, community, or historical period.
+
+1. Grant of Rights
+
+The author(s) of this Software grant every recipient a perpetual, worldwide,
+royalty-free, and irrevocable right to use, study, modify, reproduce, compile,
+distribute, sublicense, and convey the Software, in original or modified form,
+for any purpose, including commercial purposes.
+
+These rights apply equally to private, internal, educational, archival,
+commercial, embedded, and experimental use.
+
+Use of the Software is not restricted to any specific hardware, operating system,
+emulator, reimplementation, or future computing platform.
+
+2. No Disclosure or Reciprocity Requirement
+
+This license imposes no obligation to disclose source code, publish modifications,
+or make derivative works available under any particular license.
+
+Modified, combined, or derivative works may be licensed under any terms chosen
+by their author(s), including proprietary or closed-source terms.
+
+Choosing not to contribute modifications back shall not limit, revoke, or
+condition any rights granted under this license.
+
+3. Attribution and Identity
+
+When the Software, or a substantial portion of it, is redistributed in any form,
+the original author acknowledgment must be preserved in a reasonable and
+accessible manner.
+
+If source code is redistributed, existing author attributions within the source
+code must remain intact. If the Software is redistributed solely in compiled,
+binary, or object form, the author acknowledgment must be made available to
+recipients through accompanying documentation, metadata, or equivalent materials.
+
+Author acknowledgment may identify individuals, pseudonyms, handles, or group
+names as originally specified by the author.
+
+Attribution serves solely to recognize origin and must not be removed, altered to
+obscure authorship, or presented in a manner that implies endorsement of
+modifications or derived works by the original author(s).
+
+4. Voluntary Contribution and Compensation
+
+Recipients may, at their discretion, submit modifications, improvements, or
+additions to the original author(s) or maintainers.
+
+Such submissions are entirely voluntary and arise from no obligation imposed by
+this license. By submitting material, the contributor grants permission for that
+material to be used, modified, and redistributed under terms compatible with
+this license. This permission applies only to the submitted material and does not
+affect the licensing of any non-submitted work.
+
+Nothing in this license restricts a contributor from offering their own original
+contributions under separate terms, including for compensation, whether or not
+those contributions are submitted to the original project.
+
+5. Preservation and Continuity
+
+Redistribution of the Software for archival, educational, historical, or
+preservation purposes is explicitly permitted, including distribution as disk
+images, firmware images, bitstreams, or other representations appropriate to
+the platform.
+
+No provision of this license shall be interpreted to prohibit preservation of
+abandoned or orphaned works originally distributed under its terms.
+
+6. Warranty Disclaimer
+
+The Software is provided without warranties or guarantees of any kind. The
+author(s) make no representations regarding fitness, performance, correctness,
+or suitability for any purpose.
+
+Use of the Software is entirely at the recipient’s own risk.
+
+7. Limitation of Liability
+
+In no event shall the author(s) be liable for any claim, damages, or other
+liability arising from the use, modification, or distribution of the Software,
+whether in contract, tort, or otherwise.
+
+8. Interpretation
+
+This license shall be interpreted to maximize freedom of use and redistribution
+consistent with its express terms. No provision shall be construed to impose
+obligations not explicitly stated.
+
+© 2026 George F. Rozansky (drumr)
+
+Published and stewarded by Acipe Digital LLC.

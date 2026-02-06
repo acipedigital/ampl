@@ -1,0 +1,14 @@
+NOTICE
+
+This product includes software originally authored by:
+
+    George F. Rozansky (drumr)
+
+The software is licensed under the Acipe Minimal Permissive License v1.0
+(AMPL-1.0).
+
+Use, modification, and redistribution — including in closed or commercial
+products — are permitted, provided this attribution remains accessible to
+recipients.
+
+The full license text is provided in the accompanying documentation.
